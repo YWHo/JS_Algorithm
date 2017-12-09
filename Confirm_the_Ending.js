@@ -2,7 +2,7 @@
 // Note: don't use '.endWith()' method
 
 function confirmEnding(str, target) {
-    
+
     if (str.length < target.length) {
         return false;
     }
