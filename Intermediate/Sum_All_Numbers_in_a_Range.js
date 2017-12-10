@@ -10,6 +10,7 @@ function sumAll(arr) {
     for (var i=min; i<=max; i++) {
         result += i;
     }
+    
     return result;
 }
 
