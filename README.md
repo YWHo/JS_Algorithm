@@ -1,2 +1,2 @@
-# JS_Basic_Algorithm
+# JS_Algorithm
 Solution for Algorithm Challenge
